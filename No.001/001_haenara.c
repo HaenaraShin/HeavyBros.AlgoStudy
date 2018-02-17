@@ -1,6 +1,8 @@
 /**
 * 001. 별찍기1
-* 2018.02.14 HaenaraShin
+* 작성자 : HaenaraShin 
+* 날 짜 : 2018.02.14
+* 언 어 : C
 * https://www.acmicpc.net/status/?from_mine=1&problem_id=2438
 * 입력받은 숫자만큼 별을 찍는 문제
 * 어떤식으로 입력받고 어떤식으로 출력하면 되는지 파악하기 위해 선정

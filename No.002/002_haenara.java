@@ -1,3 +1,12 @@
+/**
+* 002. 벌집
+* 작성자 : HaenaraShin 
+* 날 짜 : 2018.02.16
+* 언 어 : JAVA
+* https://www.acmicpc.net/problem/2292
+* 6각형의 벌집의 특정 지점부터 중심까지의 거리
+*/
+
 import java.util.*;
 import java.math.*; // Math.ceil 과 Math.sqrt 를 사용하기 위해 import
 

@@ -1,3 +1,12 @@
+/**
+* 002. 벌집
+* 작성자 : HaenaraShin 
+* 날 짜 : 2018.02.15
+* 언 어 : C
+* https://www.acmicpc.net/problem/2292
+* 6각형의 벌집의 특정 지점부터 중심까지의 거리
+*/
+
 int main() {
 	int input;
 	scanf("%d", &input);               // 입력은 scanf 로 받을 수 있다.
