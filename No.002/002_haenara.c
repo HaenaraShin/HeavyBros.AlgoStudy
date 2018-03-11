@@ -1,6 +1,6 @@
 /**
 * 002. 벌집
-* 작성자 : HaenaraShin 
+* 작성자 : HaenaraShin
 * 날 짜 : 2018.02.15
 * 언 어 : C
 * https://www.acmicpc.net/problem/2292
@@ -47,4 +47,9 @@ int main() {
 /**
  * 결과
  * 7796291	hamster12345	2292	맞았습니다!!	1128 KB	0 MS	C / 수정	2147 B	2초 전
+ */
+
+ /**
+ * 피드백
+ *
  */

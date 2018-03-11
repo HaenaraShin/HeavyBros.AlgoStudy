@@ -1,6 +1,6 @@
 /**
 * 001. 별찍기1
-* 작성자 : HaenaraShin 
+* 작성자 : HaenaraShin
 * 날 짜 : 2018.02.14
 * 언 어 : C
 * https://www.acmicpc.net/status/?from_mine=1&problem_id=2438
@@ -24,4 +24,9 @@ int main(){
 /**
 * 결과
 * 7792244	hamster12345	2438	맞았습니다!!	1116 KB	0 MS	C / 수정	199 B
+*/
+
+/**
+* 피드백
+*
 */

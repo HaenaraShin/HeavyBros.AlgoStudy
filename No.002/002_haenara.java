@@ -1,6 +1,6 @@
 /**
 * 002. 벌집
-* 작성자 : HaenaraShin 
+* 작성자 : HaenaraShin
 * 날 짜 : 2018.02.16
 * 언 어 : JAVA
 * https://www.acmicpc.net/problem/2292
@@ -53,4 +53,9 @@ public class Main {
 /**
  * 결과
  * 7801684	hamster12345	2292	맞았습니다!!	10948 KB	116 MS	Java / 수정	1732 B	1분 전
+ */
+
+ /**
+ * 피드백
+ *
  */
