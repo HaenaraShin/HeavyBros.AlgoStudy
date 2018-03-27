@@ -170,7 +170,6 @@ for x in range (0,tests):
 			cnt+=2
 	
 	print drop_log[k-1][0]	
-	print drop_log
 			
 #todo: 
 #-faster searching (instead of o(n))
