@@ -1,5 +1,7 @@
 #!/usr/bin/env python2
 
+#does not pass the test - timeout.
+
 #I NEED NUMPY
 import sys
 
@@ -36,24 +38,13 @@ def sim_init(N,L,k):
 
 def ant_find(ant,ant_rightheading,ant_leftheading,ants_omni_srt2):
 	if ant[0] < 0:#left-heading
-		if len(ants_rightheading) == 0:
-			ans = ant[0]
-			
-		elif ants_rightheading[-1][1] > ant[1]:
-			ans = ant[0]
-		else:
-			i = ants_leftheading.index(ant)
-			ans = ants_omni_srt2[i][0]
+		i = ants_leftheading.index(ant)
+		ans = ants_omni_srt2[i][0]
 
-	else:	#right-heading
-		if len(ants_leftheading) == 0:
-			ans = ant[0]
-		elif ants_leftheading[-1][1] < ant[1]:
-			ans = ant[0]
-		else:
-			i = ants_rightheading.index(ant)
-			ans = ants_omni_srt2[-1-i][0]
-	
+	else:
+		i = ants_rightheading.index(ant)
+		ans = ants_omni_srt2[-1-i][0]
+
 	return ans
 
 #int main() {
