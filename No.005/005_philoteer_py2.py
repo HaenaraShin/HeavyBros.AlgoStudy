@@ -1,7 +1,5 @@
 #!/usr/bin/env python2
 
-#does not pass the test - timeout.
-
 #I NEED NUMPY
 import sys
 
