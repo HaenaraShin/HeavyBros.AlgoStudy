@@ -3,9 +3,6 @@
 #I NEED NUMPY
 import sys
 
-#test cases
-tests = input()
-
 #load an experiment to lists.
 #(directly reads stdin)
 def sim_init(N,L,k):
@@ -46,6 +43,10 @@ def ant_find(ant,ant_rightheading,ant_leftheading,ants_omni_srt2):
 	return ans
 
 #int main() {
+
+#test cases
+tests = input()
+
 for x in range (0,tests):
 	#n,l,k
 	nlk = sys.stdin.readline()
