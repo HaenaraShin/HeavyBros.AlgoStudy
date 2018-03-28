@@ -75,8 +75,7 @@ for x in range (0,tests):
 	#ant_list[i] =  (ant_id, ant_pos, ant_dist)
 	#smaller = faster falling
 
-	#ants_omni.sort(key=lambda tup: tup[2])
-	ants_omni = sorted(ants_omni, key=lambda tup:(tup[2], tup[0]))
+	ants_omni.sort(key=lambda tup: tup[2])
 	ants_omni_srt2 = sorted(ants_omni, key=lambda tup:(tup[1]))
 	ants_leftheading.sort(key=lambda tup: tup[2])
 	ants_rightheading.sort(key=lambda tup: tup[2])
