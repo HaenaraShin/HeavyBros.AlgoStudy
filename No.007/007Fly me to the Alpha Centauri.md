@@ -1,6 +1,6 @@
 ﻿Fly me to the Alpha Centauri
 
-출처 : https://www.acmicpc.net/problem/2448
+출처 : https://www.acmicpc.net/problem/1011
 
 문제
 우현이는 어린 시절, 지구 외의 다른 행성에서도 인류들이 살아갈 수 있는 미래가 오리라 믿었다. 그리고 그가 지구라는 세상에 발을 내려 놓은 지 23년이 지난 지금, 세계 최연소 ASNA 우주 비행사가 되어 새로운 세계에 발을 내려 놓는 영광의 순간을 기다리고 있다.
